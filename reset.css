@@ -21,3 +21,10 @@
 .home #nd_options_footer_4 {
 	display: none;
 }
+
+#nd_options_footer_4_copyright .nd_options_text_align_center_responsive .nd_options_display_table > div:nth-child(1) > a > img {
+	width: 20px;
+    height: 20px;
+    margin-top: -3px;
+    margin-bottom: -3px;
+}
