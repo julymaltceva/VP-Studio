@@ -2,7 +2,7 @@
 	display: none;
 }
 
-.home .nd_options_section > img {
+.home .nd_options_box_sizing_border_box .nd_options_text_align_center .nd_options_section {
     width: 340px;
 }
 
