@@ -1,0 +1,23 @@
+.home .nd_options_section > h5 {
+	display: none;
+}
+
+.home .nd_options_box_sizing_border_box .nd_options_text_align_center .nd_options_section {
+    width: 340px;
+}
+
+.home .nd_options_text_transform_uppercase > strong {
+	display: none;
+}
+
+.home .vc_row-flex .vc_column_container {
+	height: 100%
+}
+
+.home .vc_row-flex .vc_column_container .vc_column-inner {
+	height: 100%
+}
+
+.home #nd_options_footer_4 {
+	display: none;
+}
