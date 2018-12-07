@@ -21,7 +21,8 @@
 .home #nd_options_footer_4 {
 	display: none;
 }
-#nd_options_footer_4_copyright .nd_options_text_align_center_responsive > div:nth-child(2) > div:nth-child(2) > a > img {
+
+#nd_options_footer_4_copyright .nd_options_text_align_center_responsive > div:nth-child(2) > div:nth-child(1) > a > img {
 	width: 20px;
 	height: 20px;
     margin-top: -3px;
