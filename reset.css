@@ -17,3 +17,7 @@
 .home .vc_row-flex .vc_column_container .vc_column-inner {
 	height: 100%
 }
+
+.home #nd_options_footer_4 {
+	display: none;
+}
