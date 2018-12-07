@@ -10,7 +10,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
         	
 <?php wp_head(); ?>
-<link rel="stylesheet" href="reset.css" type="text/css"/>
+<link rel="stylesheet" href="wp-content/themes/beautypack/reset.css" type="text/css"/>
 </head>  
 <body id="start_nicdark_framework" <?php body_class(); ?>>
 
