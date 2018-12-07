@@ -2,6 +2,10 @@
 	display: none;
 }
 
+.home .nd_options_section > img {
+    width: 340px;
+}
+
 .home .nd_options_text_transform_uppercase > strong {
 	display: none;
 }
