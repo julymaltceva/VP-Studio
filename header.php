@@ -8,9 +8,11 @@
     <meta charset="<?php bloginfo('charset'); ?>"> 
     <meta name="author" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="stylesheet" href="/wp-content/themes/beautypack/reset.css" type="text/css"/>
         	
 <?php wp_head(); ?>
-<link rel="stylesheet" href="wp-content/themes/beautypack/reset.css" type="text/css"/>
+
 </head>  
 <body id="start_nicdark_framework" <?php body_class(); ?>>
 
