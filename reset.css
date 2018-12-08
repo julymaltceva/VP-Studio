@@ -32,3 +32,7 @@
 #nd_options_footer_4_copyright .nd_options_text_align_center_responsive > div:nth-child(4) {
 	display: none;
 }
+
+#nd_options_footer_4_copyright .nd_options_container .nd_options_grid_6:nth-child(1) > p {
+	white-space: pre;
+}
