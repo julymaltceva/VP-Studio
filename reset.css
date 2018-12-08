@@ -36,7 +36,10 @@
 #nd_options_footer_4_copyright .nd_options_container .nd_options_grid_6:nth-child(1) > p {
 	white-space: pre;
 }
-
-.nd_options_navigation_4 .nd_options_display_block .menu-main-menu-container .menu .nd_options_new_label > a:after {
+#menu-main-menu-1 > li.nd_options_new_label.menu-item.menu-item-type-post_type.menu-item-object-page.current-menu-item.page_item.page-item-836.current_page_item.menu-item-997 > a:after {
 	display: none;
+}
+
+.menu li.nd_options_new_label > a::after {
+	content: none;
 }
