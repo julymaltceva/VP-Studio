@@ -36,3 +36,7 @@
 #nd_options_footer_4_copyright .nd_options_container .nd_options_grid_6:nth-child(1) > p {
 	white-space: pre;
 }
+
+#menu-main-menu-1 > li.menu-item-997 > a:after {
+	display: none;
+}
