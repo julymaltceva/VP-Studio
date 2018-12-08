@@ -37,6 +37,6 @@
 	white-space: pre;
 }
 
-#menu-main-menu-1 > li.menu-item-997 > a:after {
+#menu-main-menu-1 .nd_options_navigation_4 .menu li.nd_options_new_label > a:after {
 	display: none;
 }
