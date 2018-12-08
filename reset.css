@@ -45,6 +45,22 @@
 	color: #fff0 !important;
 }
 
-.postid-63 .nd_options_section.nd_options_position_relative > img {
+.postid-63 .nd_options_section.nd_options_position_relative > img.nd_options_position_absolute {
+	display: none;
+}
+
+.postid-59 .nd_options_section.nd_options_position_relative > div > h3 {
+	color: #fff0 !important;
+}
+
+.postid-59 .nd_options_section.nd_options_position_relative > img.nd_options_position_absolute {
+	display: none;
+}
+
+.postid-61 .nd_options_section.nd_options_position_relative > div > h3 {
+	color: #fff0 !important;
+}
+
+.postid-61 .nd_options_section.nd_options_position_relative > img.nd_options_position_absolute {
 	display: none;
 }
