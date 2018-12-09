@@ -88,3 +88,15 @@
 .postid-63 div#nd_options_breadcrumbs .nd_options_container .nd_options_section > span {
 	display: none;
 }
+
+.home div#post-11 .wpb_wrapper {
+	text-align: center;
+}
+
+.home div#post-11 .wpb_raw_code.wpb_content_element.wpb_raw_html > div > a > u {
+	line-height: 10px;
+    font-size: 10px;
+    padding: 5px;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+}
