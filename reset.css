@@ -76,3 +76,15 @@
 #post-34 .nd_options_section .nd_options_box_sizing_border_box:nth-child(2) {
 	width: 70%;
 }
+
+.postid-59 div#nd_options_breadcrumbs .nd_options_container .nd_options_section > span {
+	display: none;
+}
+
+.postid-61 div#nd_options_breadcrumbs .nd_options_container .nd_options_section > span {
+	display: none;
+}
+
+.postid-63 div#nd_options_breadcrumbs .nd_options_container .nd_options_section > span {
+	display: none;
+}
