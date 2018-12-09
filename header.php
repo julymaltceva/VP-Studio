@@ -9,7 +9,6 @@
     <meta name="author" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<link rel="stylesheet" href="/wp-includes/js/jquery/fancybox-master/dist/jquery.fancybox.min.css" type="text/css" />
 <link rel="stylesheet" href="/wp-content/themes/beautypack/reset.css" type="text/css"/>
         	
 <?php wp_head(); ?>
