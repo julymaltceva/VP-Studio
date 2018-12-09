@@ -1,0 +1,11 @@
+/*
+ Theme Name:   Newtheme Child Theme
+ Theme URI:    http://www.newtheme.com/
+ Description:  beautypack child theme 
+ Author:       newtheme
+ Author URI:   http://www.newtheme.com
+ Template:     beautypack
+ Version:      1.0.0
+*/
+ 
+@import url("../beautypack/style.css");
