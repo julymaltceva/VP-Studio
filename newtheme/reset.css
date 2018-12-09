@@ -1,0 +1,102 @@
+.home .nd_options_section > h5 {
+	display: none;
+}
+
+.home .nd_options_box_sizing_border_box .nd_options_text_align_center .nd_options_section {
+    width: 340px;
+}
+
+.home .nd_options_text_transform_uppercase > strong {
+	display: none;
+}
+
+.home .vc_row-flex .vc_column_container {
+	height: 100%
+}
+
+.home .vc_row-flex .vc_column_container .vc_column-inner {
+	height: 100%
+}
+
+.home #nd_options_footer_4 {
+	display: none;
+}
+
+#nd_options_footer_4_copyright .nd_options_text_align_center_responsive > div:nth-child(2) > div:nth-child(1) > a > img {
+	width: 20px;
+	height: 20px;
+    margin-top: -3px;
+    margin-bottom: -3px;
+}
+
+#nd_options_footer_4_copyright .nd_options_text_align_center_responsive > div:nth-child(4) {
+	display: none;
+}
+
+#nd_options_footer_4_copyright .nd_options_container .nd_options_grid_6:nth-child(1) > p {
+	white-space: pre;
+}
+
+.nd_options_navigation_type .menu li.nd_options_new_label > a::after {
+	content: none !important;
+}
+
+.postid-63 .nd_options_section.nd_options_position_relative > div > h3 {
+	color: #fff0 !important;
+}
+
+.postid-63 .nd_options_section.nd_options_position_relative > img.nd_options_position_absolute {
+	display: none;
+}
+
+.postid-59 .nd_options_section.nd_options_position_relative > div > h3 {
+	color: #fff0 !important;
+}
+
+.postid-59 .nd_options_section.nd_options_position_relative > img.nd_options_position_absolute {
+	display: none;
+}
+
+.postid-61 .nd_options_section.nd_options_position_relative > div > h3 {
+	color: #fff0 !important;
+}
+
+.postid-61 .nd_options_section.nd_options_position_relative > img.nd_options_position_absolute {
+	display: none;
+}
+
+#post-569 .nd_options_position_relative > h5 > strong {
+	display: none;
+}
+
+#post-34 .nd_options_section .nd_options_box_sizing_border_box:nth-child(1) {
+	width: 30%;
+}
+
+#post-34 .nd_options_section .nd_options_box_sizing_border_box:nth-child(2) {
+	width: 70%;
+}
+
+.postid-59 div#nd_options_breadcrumbs .nd_options_container .nd_options_section > span {
+	display: none;
+}
+
+.postid-61 div#nd_options_breadcrumbs .nd_options_container .nd_options_section > span {
+	display: none;
+}
+
+.postid-63 div#nd_options_breadcrumbs .nd_options_container .nd_options_section > span {
+	display: none;
+}
+
+.home div#post-11 .wpb_wrapper {
+	text-align: center;
+}
+
+.home div#post-11 .wpb_raw_code.wpb_content_element.wpb_raw_html > div > a > u {
+	line-height: 10px;
+    font-size: 10px;
+    padding: 5px;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+}
