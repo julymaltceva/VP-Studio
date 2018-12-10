@@ -69,12 +69,14 @@
 	display: none;
 }
 
-#post-34 .nd_options_section .nd_options_box_sizing_border_box:nth-child(1) {
+#post-34 .contact_information .nd_options_section .nd_options_box_sizing_border_box:nth-child(1) {
 	width: 30%;
+	padding: 10px 0 10px 10px;
 }
 
-#post-34 .nd_options_section .nd_options_box_sizing_border_box:nth-child(2) {
+#post-34 .contact_information .nd_options_section .nd_options_box_sizing_border_box:nth-child(2) {
 	width: 70%;
+	padding: 10px 10px 10px 0;
 }
 
 .postid-59 div#nd_options_breadcrumbs .nd_options_container .nd_options_section > span {
@@ -99,4 +101,10 @@
     padding: 5px;
     color: rgb(255, 255, 255);
     cursor: pointer;
+}
+
+.fancybox-slide--iframe .fancybox-content {
+    display: inline-block;
+    width: 80%;
+    height: 500px;
 }
