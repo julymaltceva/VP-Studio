@@ -100,3 +100,9 @@
     color: rgb(255, 255, 255);
     cursor: pointer;
 }
+
+.fancybox-slide--iframe .fancybox-content {
+    display: inline-block;
+    width: 80%;
+    height: 500px;
+}
