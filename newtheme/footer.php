@@ -33,8 +33,7 @@ if( function_exists('nicdark_footers')){ do_action("nicdark_footer_nd"); }else{ 
 
 <?php wp_footer(); ?>
 
-<script src="//code.jquery.com/jquery-3.2.1.min.js"></script>
-<script src="/wp-content/themes/newtheme/fancybox-master/dist/jquery.fancybox.min.js"></script>
+<script src="/wp-content/themes/newtheme/assets/js/fancybox-master/dist/jquery.fancybox.min.js"></script>
 	
 </body>  
 </html>
